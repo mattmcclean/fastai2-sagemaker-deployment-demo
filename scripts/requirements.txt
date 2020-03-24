@@ -1,0 +1,2 @@
+fastai2
+ipykernel
